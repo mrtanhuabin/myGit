@@ -52,7 +52,7 @@
     "pubsub-js": "^1.9.3",
     "react": "^16.13.0",
     "react-app-polyfill": "^1.0.4",
-    "react-dev-utils": "^9.1.0",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.13.0",
     "react-router-dom": "^5.1.2",
     "react-scale-box": "^1.0.2",
