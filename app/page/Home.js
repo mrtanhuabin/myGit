@@ -5,7 +5,7 @@ class About extends React.Component {
   render() {
     return (
       <Text>
-       欢迎看到，我的地盘
+       欢迎看到，我的地盘a
       </Text>
     );
   }
