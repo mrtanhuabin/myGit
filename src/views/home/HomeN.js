@@ -13,7 +13,11 @@ class HomeN extends PureComponent {
         this.derctPageb= this.derctPageb.bind(this);
     }
     componentDidMount(){
+<<<<<<< HEAD
         document.title="首页";
+=======
+        document.title="首页123";
+>>>>>>> 0cc981f96073a9d6af604897194720fe8312628c
     }
     derctPagea=()=>{
         console.log(this.props.history);
