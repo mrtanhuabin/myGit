@@ -1,7 +1,7 @@
 <template>
 	<view class="container">
 		<view class="name">{{yonghuwx.nickName || "用户"}}，你好</view>
-		<view class="txt">欢迎使用小谈信息录入软件</view>
+		<view class="txt">欢迎使用信息录入软件</view>
 		<view class="btn" v-on:click="jump()">去选择表格吧</view>
 	</view>
 </template>
