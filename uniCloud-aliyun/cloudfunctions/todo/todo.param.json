@@ -1,0 +1,11 @@
+{
+	"method": "add",
+	"params": [
+		{
+			"type": 1,
+			"obj": {
+				"name": "bb"
+			}
+		}
+	]
+}

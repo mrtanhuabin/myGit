@@ -1,0 +1,1 @@
+<view class="container"><view class="name">{{yonghuwx.nickName+"，你好"}}</view><view class="txt">欢迎使用小谈信息录入软件</view><view data-event-opts="{{[['tap',[['jump']]]]}}" class="btn" bindtap="__e">去选择表格吧</view></view>

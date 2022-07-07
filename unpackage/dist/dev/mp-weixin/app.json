@@ -1,0 +1,55 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/tempList/tempList",
+    "pages/edit/edit",
+    "pages/infoList/infoList",
+    "pages/set/set",
+    "pages/infoList/infoDetail"
+  ],
+  "subPackages": [],
+  "window": {
+    "backgroundColorBottom": "#3c57a0",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#3c57a0",
+    "backgroundColor": "#3c57a0"
+  },
+  "tabBar": {
+    "custom": false,
+    "color": "#aaa",
+    "selectedColor": "#fff",
+    "iconWidth": "30rpx",
+    "spacing": "5px",
+    "borderStyle": "white",
+    "backgroundColor": "#193379",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/logo.png",
+        "selectedIconPath": "static/logo.png"
+      },
+      {
+        "pagePath": "pages/tempList/tempList",
+        "text": "表格列表",
+        "iconPath": "static/logo.png",
+        "selectedIconPath": "static/logo.png"
+      },
+      {
+        "pagePath": "pages/infoList/infoList",
+        "text": "已填列表",
+        "iconPath": "static/logo.png",
+        "selectedIconPath": "static/logo.png"
+      },
+      {
+        "pagePath": "pages/set/set",
+        "text": "报表管理",
+        "iconPath": "static/logo.png",
+        "selectedIconPath": "static/logo.png"
+      }
+    ]
+  },
+  "permission": {},
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

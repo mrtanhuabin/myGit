@@ -1,0 +1,33 @@
+
+.container {
+	padding: 0 20px;
+	font-size: 14px;
+	line-height: 24px;
+}
+.name{
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+}
+.txt{
+	text-align: center;
+	color: #ccc6c6;
+}
+.intro{
+	margin-top: 10px;
+}
+.scroll-view-item{
+	padding: 10px;
+	border:1px solid #e5e6ea;
+	margin-top: 10px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.info{
+}
+.add {
+	font-size: 50px;
+	color: #fff;
+}
+

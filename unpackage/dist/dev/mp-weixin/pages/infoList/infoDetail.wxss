@@ -1,0 +1,33 @@
+
+.container {
+	padding: 0 20px;
+	font-size: 14px;
+	line-height: 24px;
+	    padding-top: 20px;
+}
+.box{
+	display: flex;
+	border-bottom: 1rpx dashed;
+	    padding: 5px 0;
+}
+.id{
+	width: 80rpx;
+	padding-left: 10px;
+}
+.name{
+	width: 150rpx;
+}
+.sex{
+	width: 80rpx;
+}
+.age{
+	width: 220rpx;
+}
+.tabHeader{
+	    background: #5170c5;
+	    padding: 4px 0;
+	    width: 100%;
+	    display: flex;
+	    margin-top: 10px;
+}
+
