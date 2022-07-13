@@ -1,7 +1,7 @@
 <template>
 	<view class="container">
 		<view class="intro" v-if="type == 1">
-			<view class="titleName">小太阳金港幼儿园花名册a</view>
+			<view class="titleName">小太阳金港幼儿园花名册</view>
 			<form @submit="formSubmit" @reset="formReset">
 				<view class="uni-form-item uni-column">
 					<view class="title">幼儿姓名</view>
