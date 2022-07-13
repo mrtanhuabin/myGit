@@ -1,0 +1,24 @@
+
+.container {
+	padding: 0 20px;
+	font-size: 14px;
+	line-height: 24px;
+}
+.scroll-view-item{
+	padding: 10px;
+	border:1px solid #e5e6ea;
+	margin-top: 10px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.info{
+}
+.add {
+	    font-size: 14px;
+	    color: #6db6ea;
+		min-width: 100rpx;
+		text-align: center;
+		cursor: pointer;
+}
+

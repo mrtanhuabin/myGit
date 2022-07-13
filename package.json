@@ -1,0 +1,17 @@
+{
+    "id": "ln-autograph",
+    "name": "签名版",
+    "version": "1.0.0",
+    "description": "签名画板",
+    "keywords": [
+        "canvas",
+        "签名",
+        "画板"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}
